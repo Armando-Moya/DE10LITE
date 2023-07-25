@@ -1,0 +1,9 @@
+module contador #(parameter BITS=4 )
+(
+ input clk,
+ input res,
+ input en,
+ output out
+
+
+);
